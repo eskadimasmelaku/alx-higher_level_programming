@@ -1,4 +1,3 @@
-100-starwars_characters.js
 #!/usr/bin/node
 
 const req = require('request');
